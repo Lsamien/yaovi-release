@@ -4,7 +4,7 @@
 
 ## 下载
 
-当前正式版本：[Yaovi 0.1.7](https://github.com/Lsamien/yaovi-release/releases/tag/v0.1.7)。
+当前正式版本：[Yaovi 0.1.8](https://github.com/Lsamien/yaovi-release/releases/tag/v0.1.8)。
 
 适用 macOS Apple Silicon（arm64），纯客户端 Bundle ID 为 `cn.samien.yaovi.agent`，连接独立 Yaovi Host。
 首次安装使用 DMG，可通过同一 Release 的 `SHA256SUMS.txt` 校验附件。
@@ -26,6 +26,8 @@
 
 - 0.1.7 统一电脑稳定身份与设备授权状态，增加局域网网页访问码入口；需要配套新版 Host。
 
-0.1.7 已完成正式签名、公证与包体验证。0.1.1 的本机真实原生升级维护验收作为历史记录保留；此前取消的隔离 macOS 系统升级验收仍未完成，详见版本说明。
+- 0.1.8 重组设置分类和两级导航，改善连接恢复、待核对操作及任务状态展示，修复局域网网页图片显示；相关功能需要配套新版 Host。
+
+0.1.8 已完成正式签名、公证与包体验证。0.1.1 的本机真实原生升级维护验收作为历史记录保留；此前取消的隔离 macOS 系统升级验收仍未完成，详见版本说明。
 
 不在此仓库保存账号凭据、签名私钥或私有应用源码。
